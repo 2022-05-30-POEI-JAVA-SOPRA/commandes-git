@@ -19,3 +19,9 @@
 - `git remote set-url origin <url_depot_distant>` : Changer url pour le dépot distant
 
 - `git push origin <nom_branch>` : Envoyer le code dans le dépôt distant
+
+- `git checkout <nom_branch>` : Switcher d'une branche à une autre
+
+- `git checkout -b <nouvellee_branche>` : Créer une branche, et se positionner dessus
+
+- `git merge <nom_branch>` : Combiner la brach courant avec <nom_branch>
