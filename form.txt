@@ -4,4 +4,4 @@ Nom : [             ]
 
 Mot de passe : [             ]
 
-[ Se connecter ]
+[ Se connecter ] [ Register ]
