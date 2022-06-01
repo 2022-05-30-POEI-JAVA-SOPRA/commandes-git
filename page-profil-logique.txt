@@ -1,0 +1,4 @@
+si
+(nom est vide ou email est vide) alors
+Ne pas soumettre le formulaire
+si si
